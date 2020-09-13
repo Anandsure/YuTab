@@ -31,7 +31,7 @@ The source code of this project is written in **`HTML/CSS/JS`**, and runs on a *
 
 ## Instructions to Run
 ```
-$ git clone https://github.com/AnandSure/local_ft
+$ git clone https://github.com/AnandSure/YuTab
 $ cd local_ft
 $ npm install
 $ cd streaming && pip3 install -r requirements.txt
